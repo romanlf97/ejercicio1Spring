@@ -1,0 +1,12 @@
+egg\ejercicio1\spring\entidades\Autor.class
+egg\ejercicio1\spring\servicios\AutorServicio.class
+egg\ejercicio1\spring\servicios\EditorialServicio.class
+egg\ejercicio1\spring\entidades\Libro.class
+egg\ejercicio1\spring\Application.class
+egg\ejercicio1\spring\Errores\ErrorServicio.class
+egg\ejercicio1\spring\repositorios\EditorialRepositorio.class
+egg\ejercicio1\spring\repositorios\LibroRepositorio.class
+egg\ejercicio1\spring\repositorios\AutorRepositorio.class
+egg\ejercicio1\spring\controladores\InicioControlador.class
+egg\ejercicio1\spring\entidades\Editorial.class
+egg\ejercicio1\spring\servicios\LibroServicio.class
